@@ -1,0 +1,13 @@
+Program aşağıdaki dizine kurulacak:
+c:\Saha\deuBarkod\
+
+Aşağıdaki dosya içerisine yazıcı adı yazılacak
+c:\Saha\deuBarkod\config.ini
+
+Eğer yazıcı LP2844-Z ise config dosyasına cbZPL=true eklenmelidir.
+
+Örn:
+
+[AYAR]
+tbYaziciAdi=Zebra
+cbZPL=true
